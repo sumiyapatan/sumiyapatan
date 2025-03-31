@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sumiyapatan
-- 👀 I’m very much interested in IT technologies
+- 👀 I’m a avid learner and intersted in learning new technologies
 - 🌱 I’m currently learning MERN fullstack
 - 📫 How to reach me : sumiyapatan082@gmail.com
+- 📫 Here is my linkedin : www.linkedin.com/in/patan-sumiya-81466528b
 - ⚡ Fun fact: afraid to code but still enthusiastic to learn coding 
 
 <!---
